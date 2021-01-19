@@ -3,7 +3,7 @@
 ![タイトルイメージ](https://github.com/Fusa-F/VRSample/blob/main/Assets/Images/SceneVisual/vr_title.jpg)
 
 ## 概要
-<h4 align="center">本学のオープンキャンパスをVRで。</h4>
+<h3 align="center">本学のオープンキャンパスをVRで。</h3>
 
 ***
 自宅から参加できるオープンキャンパスのアプリケーションを作成しました。本アプリはDjangoを用いた、ブラウザで動くWebアプリケーションです。
@@ -14,8 +14,8 @@
 - safari 14.0
 
 ## 利用方法
-以下のURLからどうぞ。
-[URL](#)
+以下のURLからどうぞ。  
+~[URL](#)~　準備中
 
 ## 操作方法
 

@@ -1,6 +1,7 @@
 <h1 align="center">VRオープンキャンパス_Web版</h1>
 
-![タイトルイメージ or gif]()
+![タイトルイメージ](https://github.com/Fusa-F/VRSample/blob/main/Assets/Images/SceneVisual/vr_title.jpg)
+
 ## 概要
 <h4 align="center">本学のオープンキャンパスをVRで。</h4>
 
@@ -17,6 +18,11 @@
 [URL](#)
 
 ## 操作方法
+
+<p align="center">
+  <img width="640" height="auto" src="https://github.com/Fusa-F/Trailer/blob/master/demo.gif" title="デモ映像">
+</p>
+
 - 視点変更
   - マウスを移動する
 - 移動・メニューパネルの操作
@@ -29,5 +35,3 @@
 
 ## 開発チーム
 ICTソリューションプロジェクトUnity・VRチーム
-
-## ライセンス
